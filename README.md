@@ -1,7 +1,8 @@
 # Hey, Prathamesh here 👋
 
-I am a **Full Stack Developer (Java + Spring Boot)** with 1+ year of experience building scalable backend systems and REST APIs.
-I also have hands-on experience in **Android development** and have worked in a **Japanese enterprise environment** 🇯🇵
+I am a **Full Stack Developer (Java + Spring Boot)** 
+<!-- with 1+ year of experience building scalable backend systems and REST APIs.
+I also have hands-on experience in **Android development** and have worked in a **Japanese enterprise environment** 🇯🇵 -->
 
 ---
 
@@ -18,7 +19,7 @@ I also have hands-on experience in **Android development** and have worked in a 
 
 ---
 
-## 🚀 Experience
+<!-- ## 🚀 Experience
 
 * 💼 **Software Development Engineer (Japan 🇯🇵)**
 
@@ -63,7 +64,7 @@ I also have hands-on experience in **Android development** and have worked in a 
 
 * 🎌 JLPT N3 Certified (Japanese proficiency)
 * ☁️ AWS Cloud Practitioner Essentials
-* 🧠 Solved 100+ DSA problems on LeetCode
+* 🧠 Solved 100+ DSA problems on LeetCode -->
 
 ---
 
